@@ -4,4 +4,4 @@
 ## getting started
 Our project implementation was based on this: https://github.com/bubbliiiing/yolov4-pytorch.git, you can tap this link to know more detail about installing independence, training, and testing.
 ## dataset
-we will upload dataset download link soon.
+We will upload dataset download link soon.
